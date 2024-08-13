@@ -210,6 +210,8 @@ If you have any ideas on how to extend out the content warning list, please let 
 
 Telegram is the best way to reach me.
 
+---
+
 ### Become Social!
 
 The first steps are the socials we use to organise the sessions and to chat about Pathfinder and other stuff.
